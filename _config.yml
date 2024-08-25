@@ -1,18 +1,6 @@
-author:
-  name: Maiane Junqueira
-  #avatar: /assets/images/bio-photo.jpg
-  description: PhD Student
-  show_downloads: false
-  theme: jekyll-theme-minimal
-  links:
-    - label: LinkedIn
-      url: https://www.linkedin.com/in/maiane-junqueira-teixeira-neto-2413a387
-    #- label: Google Scholar
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/mmistakes"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/mmistakes"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/mmistakes"
+title: Maiane Junqueira"
+#logo: /assets/foto1.png
+description: PhD Student
+show_downloads: false
+linkedin: https://www.linkedin.com/in/maiane-junqueira-teixeira-neto-2413a387
+theme: jekyll-theme-minimal
