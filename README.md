@@ -1,19 +1,19 @@
 # PhD Student in Electrical Engineering with a Focus on Ethical AI
-I am Maiane Junqueira Teixeira Neto, a PhD student in Electrical Engineering with a focus on Ethical AI and Computer Engineering at the Universidade Estadual de Campinas (Unicamp). I hold a Master’s degree from Unicamp, in which I am currently pursuing my doctoral studies. Additionally, I have a Bachelor's degree in Mathematics and gained international academic experience as an Exchange Student at Fontbonne University in St. Louis, Missouri. Currently, my research interests lie in Ethical Artificial Intelligence. I believe that Artificial Intelligence is an advancing technology that must be developed and implemented carefully to avoid harmful behavior towards vulnerable groups.
+I am Maiane Junqueira Teixeira Neto, a PhD student in Electrical Engineering with a focus on Ethical AI and Computer Engineering at the Universidade Estadual de Campinas (Unicamp). I hold a Master’s degree from Unicamp, where I am currently pursuing my doctoral studies. Additionally, I have a Bachelor's degree in Mathematics and gained international academic experience as an Exchange Student at Fontbonne University in St. Louis, Missouri. Currently, my research interests lie in Ethical Artificial Intelligence. I believe that Artificial Intelligence is an advancing technology that must be developed and implemented carefully to avoid harmful behavior towards vulnerable groups.
 
 
 ### Education
-Universidade Estadual de Campinas                        August 2022 -  Expected December 2026
-**Doctor of Philosophy Student in Electrical Engineering with a minor in Computer Engineering**
+**Universidade Estadual de Campinas                        August 2022 -  Expected December 2026**
+- Doctor of Philosophy Student in Electrical Engineering with a minor in Computer Engineering
 
-Universidade Estadual de Campinas	                                  March 2018 - January 2023
-**Master’s degree in Electrical Engineering with a minor in Computer Engineering**
+**Universidade Estadual de Campinas	                                   March 2018 - January 2023**
+- Master’s degree in Electrical Engineering with a minor in Computer Engineering
 
-Fontbonne University	                                            August 2013 - December 2014
-**Brazil Scientific Mobility Program Science without Borders**
+**Fontbonne University	                                             August 2013 - December 2014**
+- Brazil Scientific Mobility Program Science without Borders
 
-Universidade Federal de Mato Grosso do Sul	                             March 2011 - July 2016
-**Bachelor’s degree in Mathematics**
+**Universidade Federal de Mato Grosso do Sul	                          March 2011 - July 2016**
+- Bachelor’s degree in Mathematics
 
 ### Research Experience
 **Universidade Estadual de Campinas                                  Campinas, São Paulo, Brazil**
