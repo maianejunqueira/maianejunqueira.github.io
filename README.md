@@ -17,20 +17,20 @@ I am Maiane Junqueira Teixeira Neto, a PhD student in Electrical Engineering wit
 
 ### Research Experience
 **Universidade Estadual de Campinas                                  Campinas, São Paulo, Brazil**
-Researcher	                                                                          August 2022 - Present
+Researcher|	                                                                          August 2022 - Present
 - Investigated ways to improve fairness models using nonlinear optimization techniques;
 - Developed ways to balance between fairness and accuracy in machine learning;
 - Tested hypotheses using Matlab/Python programming languages.
 
 **Universidade Estadual de Campinas                                   Campinas, São Paulo, Brazil**
-Research Project	                                                                       March- June 2023
+Research Project|	                                                                       March- June 2023
 - Investigated machine learning techniques applied to breast cancer classification;
 - Used genetic algorithms to extract features and trained a multi-layer perceptron and K-Nearest Neighbors to correctly identify breast cancer tumors;
 - Prioritized reducing the number of false negatives in order to focus on early treatment for patients as a better approach to handling breast cancer diagnosis;
 - Tested hypotheses using the Python programming language.
 
 **Universidade Estadual de Campinas	                                  Campinas, São Paulo, Brazil**
-Researcher	                                                                      March 2018 - January 2023
+Researcher|	                                                                      March 2018 - January 2023
 - Investigated the use of nonlinear predictors in prediction error filters, which are usually linear predictors;
 - Applied neural networks as nonlinear predictors in predictive seismic deconvolution;
 - Proposed a new and effective way to deal with challenging mixed-phase seismograms called Two-Stage Arbitrary Step in Predictive Deconvolution;
